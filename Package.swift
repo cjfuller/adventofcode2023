@@ -5,6 +5,9 @@ import PackageDescription
 
 let package = Package(
   name: "Adventofcode2024",
+  platforms: [
+    .macOS(.v14)
+  ],
   dependencies: [],
   targets: [
     .target(
