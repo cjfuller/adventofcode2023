@@ -7,3 +7,8 @@ DerivedData/
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 .netrc
 .vscode
+
+
+# Added by cargo
+
+/target
