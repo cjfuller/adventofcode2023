@@ -7,6 +7,8 @@ DerivedData/
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 .netrc
 .vscode
+.pixi
+__pycache__
 
 
 # Added by cargo
