@@ -18,5 +18,7 @@ let package = Package(
       name: "day2", dependencies: ["aoc2024_shared"], path: "Sources/day2"),
     .executableTarget(
       name: "day4", dependencies: ["aoc2024_shared"], path: "Sources/day4"),
+    .executableTarget(
+      name: "day7", dependencies: ["aoc2024_shared"], path: "Sources/day7"),
   ]
 )
